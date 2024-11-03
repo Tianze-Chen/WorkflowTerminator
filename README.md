@@ -1,7 +1,7 @@
 If you are troubled with workflow of you code, this is exactly the one for you.
 
 things link:
-  A: connect to server
+  A: connect to server\n
   B: login
   C: require player info
   D: load graphic engine
